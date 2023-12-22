@@ -1,0 +1,87 @@
+# Hero captions
+hero-main-caption:
+  title: "France Data"
+  subtitle: "Atlas des données de France"
+###################################################
+
+#Page name
+page-name:
+  home: "home"
+  regions: "regions"
+###################################################
+
+#Regions de France
+regions:
+  Auvergne-Rhône-Alpes:
+    nom: 'Auvergne-Rhône-Alpes'
+    iso: 'FR-ARA'
+    code: '84'
+  Bourgogne-Franche-Comté:
+    nom: 'Bourgogne-Franche-Comté'
+    iso: 'FR-BFC'
+    code: '27'
+  Bretagne:
+    nom: 'Bretagne'
+    iso: 'FR-BRE'
+    code: '53'
+  Centre-Val de Loire:
+    nom: 'Centre-Val de Loire'
+    iso: 'FR-CVL'
+    code: '24'
+  Corse:
+    nom: 'Corse'
+    iso: 'FR-COR'
+    code: '94'
+  Grand-Est:
+    nom: 'Grand-Est'
+    iso: 'FR-GES'
+    code: '44'
+  Guadeloupe:
+    nom: 'Guadeloupe'
+    iso: 'FR-GUA'
+    code: '01'
+  Guyane:
+    nom: 'Guyane'
+    iso: 'FR-GUF'
+    code: '03'
+  Hauts-de-France:
+    nom: 'Hauts-de-France'
+    iso: 'FR-HDF'
+    code: '32'
+  Île-de-France:
+    nom: 'Île-de-France'
+    iso: 'FR-IDF'
+    code: '11'
+  La Réunion:
+    nom: 'La Réunion'
+    iso: 'FR-LRE'
+    code: '04'
+  Martinique:
+    nom: 'Martinique'
+    iso: 'FR-MTQ'
+    code: '02'
+  Mayotte:
+    nom: 'Mayotte'
+    iso: 'FR-MAY'
+    code: '06'
+  Normandie:
+    nom: 'Normandie'
+    iso: 'FR-NOR'
+    code: '28'
+  Nouvelle-Aquitaine:
+    nom: 'Nouvelle-Aquitaine'
+    iso: 'FR-NAQ'
+    code: '75'
+  Occitanie:
+    nom: 'Occitanie'
+    iso: 'FR-OCC'
+    code: '76'
+  Pays de la Loire:
+    nom: 'Pays de la Loire'
+    iso: 'FR-PDL'
+    num: '52'
+  Provence-Alpes-Côte dAzur:
+    nom: 'Provence-Alpes-Côte dAzur'
+    iso: 'FR-PAC'
+    code: '93'
+###################################################
